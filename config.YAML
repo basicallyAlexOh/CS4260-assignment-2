@@ -1,0 +1,6 @@
+locationFile: './data/LocationsOct11.csv'
+edgeFile: './data/EdgesOct11.csv'
+startLoc: 'ChicagoIL'
+resultFile: './output/RoundTripTest3.csv'
+maxTime: 30
+x_mph: 60
