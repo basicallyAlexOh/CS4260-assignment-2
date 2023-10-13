@@ -1,5 +1,5 @@
-# CS4260-assignment-1
-Assignment 1 for CS 4260 Fall 2023
+# CS4260-assignment-2
+Assignment 2 for CS 4260 Fall 2023
 
 Contributors: Alex Oh
 
